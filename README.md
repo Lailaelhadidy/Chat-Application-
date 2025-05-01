@@ -1,4 +1,4 @@
-# Chat-Application-
+# Chat-Application-with-OOP
 Fuzetek-Internship Mini project
 1.1 Purpose
 This document outlines the requirements for a simple chat applicaon that allows
